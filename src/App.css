@@ -1,0 +1,9 @@
+body {
+    background-image: url('https://picserio.com/data/out/46/dark-sky-background_2696777.png');
+}
+
+
+.weather {
+    display: flex;
+    justify-content: center;
+}
